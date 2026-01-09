@@ -20,6 +20,20 @@ jupyter notebook
 - Listas 
 - Dicionários
 - Tuplas 
+- Inputs, sets e booleanos
+- Operadores de comparação
+- Operadores de comparação em cadeia
+- If, elif e else 
+- Range 
+- For
+- While
+- Compreensão em listas
+- Funções
+- Lambda
+
+### Módulo 2: Projetos
+- Calculadora
+- Software de gestão para locadora de carros
 
 ## 🛠️ Tecnologias utilizadas 
 - Python
