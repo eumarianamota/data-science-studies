@@ -9,7 +9,7 @@ git clone https://github.com/eumarianamota/data-science-asimov.git
 cd data-science-studies
 
 # Abra os notebooks
-jupyter notebook
+jupyter lab
 ```
 
 ## 📖 Conteúdo 
