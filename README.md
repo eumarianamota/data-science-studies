@@ -34,6 +34,19 @@ jupyter lab
 ### Módulo 2: Projetos
 - Calculadora
 - Software de gestão para locadora de carros
+- Pedra, papel e tesoura
+
+### Módulo 3: Depuração de código 
+- Try Except e Finally 
+- Logging
+
+### Módulo 4: Programação Orientada a Objetos
+- Objetos e classes
+- Métodos 
+- Herança e métodos especiais
+- Projeto: simulador de caos
+- Projeto: Jogo da velha
+
 
 ## 🛠️ Tecnologias utilizadas 
 - Python
