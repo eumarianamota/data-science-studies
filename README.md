@@ -36,7 +36,7 @@ jupyter lab
 - Software de gestão para locadora de carros
 - Pedra, papel e tesoura
 
-### Módulo 3: Depuração de código 
+### Módulo 3: Depuração de Código 
 - Try Except e Finally 
 - Logging
 
@@ -47,6 +47,21 @@ jupyter lab
 - Projeto: simulador de caos
 - Projeto: Jogo da velha
 
+### Módulo 5: Conceitos Básicos de Pandas 
+- Series
+- Dataframes
+- Índices 
+- Tratamento de dados ausentes 
+- Group by 
+- Merge, concat, join
+- Operações com dataframes
+- Series temporais
+- Entrada e saída de dados
+
+### Módulo 6: Projetos Práticos
+- Análise dos preços da gasolina no Brasil
+- Análise de dados de obesidade mundial
+- Análise de dados de PIB per capita
 
 ## 🛠️ Tecnologias utilizadas 
 - Python
